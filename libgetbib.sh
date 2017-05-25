@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-# Fetches BiBTeX data from Library Genesis for all e-books in current folder.
+# Fetches BiBTeX data from Library Genesis for all e-books in working directory.
 
 #waitTime=1  # seconds to wait between downloads
 v=3  # 0: no output | 1: errors | 2: +downloads | 3: +finish | 5: everything
